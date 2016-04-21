@@ -1,0 +1,55 @@
+body{
+background-image: url("https://pixabay.com/static/uploads/photo/2015/09/13/11/00/vintage-937977_960_720.jpg");
+width
+}
+
+
+
+p, li, {
+    font-size: 25px;
+    font-family:PT+Sans+Caption, sans-serif;
+    color:brown;
+}
+
+h2 {
+    font-family:Signika;
+    font-size: 35px;
+    color:red;
+}
+
+h1 {
+    font-family:Signika;
+    font-size:45px;
+    color:green;
+}
+
+
+
+#nav {
+text-align:center;	
+background-color:pink;
+}
+
+
+
+#nav ul {
+    list-style-type:none;
+}
+
+#nav li {
+    display: inline-block;
+}
+#nav li a:link, .nav li a:visited {
+    text-decoration:none;
+    width:100%;
+    display:block;
+    background-color:pink;
+    color:white;
+    padding: 8px 15px;
+	border-right: 1px solid #ccc; 
+}
+
+
+#nav li a:hover, .nav li a:active {
+    background-color:#0090D2;
+}

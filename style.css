@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+div  {
+border: black dashed 3px;
+text-align: center;
+padding:30px;
+font-familly: Arial, sans-serif;
+}
+
+.container{
+margin-left: auto;
+margin-right: auto;
+width: calc(20%-15px);
+    
+}
+.nav {
+width: calc(20%-15px);
+margin: 5px;
+}
+
+.header {
+width: calc(20%-15px);
+margin: 5px;
+}
+
+.main {
+width: calc(20%-15px);
+margin: 5px;
+}
+
+.footer {
+width: calc(20%-15px);
+margin: 5px;
+    
+}
